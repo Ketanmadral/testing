@@ -1,2 +1,2 @@
 # testing
-learning git commands 
+learning basic git commands 
